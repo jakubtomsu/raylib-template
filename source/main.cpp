@@ -10,6 +10,7 @@ int main() {
     Vector2 ballPosition = { (float)screenWidth/2, (float)screenHeight/2 };
     SetTargetFPS(60); // Set our game to run at 60 frames-per-second when possible
 
+
     // Main game loop
 	
 	// `WindowShouldClose` detects window close
