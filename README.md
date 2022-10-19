@@ -1,5 +1,5 @@
-# raylib-template
-Game template for Raylib and Visual Studio (tested on VS2019, should work on 2022 too)
+# Raylib C/C++ Template
+Game template for [Raylib](https://www.raylib.com/index.html) and Visual Studio (tested on VS2019, should work on 2022 too)
 
 This template should work out-of-the-box. Just download the repo and open `raylib-template.sln`.
 
